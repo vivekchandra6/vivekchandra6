@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vivek Chandra Derangula</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://tse2.mm.bing.net/th?id=OIP.h_pMJy5HEbtzc9liAyAuIAHaEq&pid=Api&P=0&h=220">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekchandra6&label=Profile%20views&color=0e75b6&style=flat" alt="vivekchandra6" /> </p>
 
